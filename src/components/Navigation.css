@@ -1,0 +1,11 @@
+.thumbnail {
+  background-image: url(../assets/man.png);
+  width: 1000px;
+  height: 1000px;
+  top: -10px;
+  left: 500px;
+  display: flex;
+  align-items: flex-end;
+  border: 1px solid red;
+  box-sizing: border-box;
+}
